@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	8
+Release:	9
 Summary:	Build (create) and fetch vCard 2.1 and 3.0 text blocks
 License:	PHP License
 Group:		Development/PHP
