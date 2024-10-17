@@ -8,7 +8,7 @@ Release:	9
 Summary:	Build (create) and fetch vCard 2.1 and 3.0 text blocks
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Contact_Vcard_Build/
+URL:		https://pear.php.net/package/Contact_Vcard_Build/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
